@@ -7,9 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [При введении ключа 80b427f8-92cd-3aae-ba04-3927fbe17c6 валидатор выдает FAIL](https://github.com/YuliyaMuraveva/lesson-1.1/issues/1#issue-784059326)
-* [При введении ключа 387eedc6-12e9-3b32-9881-63b6b5e85317 валидатор выдает FAIL](https://github.com/YuliyaMuraveva/lesson-1.1/issues/2#issue-784063053)
-* [При введении ключа 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 валидатор выдает OK](https://github.com/YuliyaMuraveva/lesson-1.1/issues/3#issue-784064472)
+* [Некоторые валидные ключи валидатор считает невалидными](https://github.com/YuliyaMuraveva/lesson-1.1/issues/1#issue-784059326)
+* [Невалидный ключ валидатор воспринимает валидным](https://github.com/YuliyaMuraveva/lesson-1.1/issues/3#issue-784064472)
 
 ## Описание процесса тестирования
 
